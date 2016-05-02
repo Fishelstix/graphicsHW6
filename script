@@ -1,0 +1,49 @@
+push
+translate
+250 250 0
+yrotate
+30
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+push
+zrotate
+45
+sphere
+0 100 50
+display
+save
+img.png
+quit
